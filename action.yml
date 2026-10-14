@@ -69,7 +69,7 @@ inputs:
   klaussy-version:
     description: klaussy-agents version to install from PyPI.
     required: false
-    default: 0.41.0
+    default: 0.42.0
 
 runs:
   using: composite
