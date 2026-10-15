@@ -1,5 +1,8 @@
 # klaussy review
 
+> [!IMPORTANT]
+> **License: source-available, not open source.** © 2026 Dovatech LLC, licensed under the [Functional Source License (FSL-1.1-MIT)](https://github.com/Klaussy-Agents/klaussy-review-action/blob/main/LICENSE). You can use and modify it for your own work, but copying it into a commercial product or service that competes with klaussy review, or offers the same functionality, is not permitted and is copyright infringement. For a commercial license, email stephanie@klaussy.com.
+
 > Don't want to run it in Actions? The hosted [klaussy review GitHub App](https://github.com/apps/klaussy-review) does the same review with nothing to configure but your key. Set it up at [app.klaussy.com](https://app.klaussy.com).
 
 Multi-agent code review on every pull request, run on your repo's own conventions. Specialist reviewers each take one angle (correctness twice, architecture, security, scope), a validator checks every finding against the code before it ships, and the result is posted as a pull request review with comments on the lines they're about.
