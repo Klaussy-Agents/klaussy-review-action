@@ -1,3 +1,4 @@
+# Copyright 2026 Dovatech LLC. SPDX-License-Identifier: FSL-1.1-MIT
 name: klaussy review
 description: Multi-agent code review that knows your repo's conventions
 author: Dovatech LLC
